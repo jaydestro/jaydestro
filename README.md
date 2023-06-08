@@ -2,7 +2,8 @@
 
 ## Bio
 
-Jay Gordon is a Cloud Advocate with the Microsoft Azure Advocates. He and the rest of the Advocacy team are focused on helping Developers and Ops teams get the most out of their cloud experience with Microsoft Azure. Prior to Microsoft, Jay was part of teams at DigitalOcean, BuzzFeed and MongoDB. Jay lives in Brooklyn, New York with his wife Betsy and a very weird dog named Meadow.
+Jay Gordon is a Senior Program Manager with Azure Cosmos DB focused on reaching developer communities. Jay is located in Brooklyn, NY.
+
 
 ## Skills
 
