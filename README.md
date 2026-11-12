@@ -20,6 +20,12 @@ I build demos, write, and give talks to help developers put cloud tools to work.
 
 I built the [Azure Cosmos DB Developer Hub](https://cosmosdb.microsoft.com/), a home for developers to find SDKs, tools, samples, training, and community resources for building apps and AI agents with Azure Cosmos DB.
 
+### Content Readiness Skill (aeo-skill)
+
+[![aeo-skill repository card](https://opengraph.githubassets.com/b6058cd922ba9cbb9b4fa72644d777bab0c8145a99c1a6d7c7e229ebc4dc459e/jaydestro/aeo-skill)](https://github.com/jaydestro/aeo-skill)
+
+I built [aeo-skill](https://github.com/jaydestro/aeo-skill), an agent skill for reviewing and improving content for humans and agents. It produces evidence-backed reports and actionable recommendations for articles, docs, READMEs, and more, with AEO/GEO guidance for discovery and citation.
+
 | Project | What to explore |
 | --- | --- |
 | [Ticketing API Demo](https://github.com/jaydestro/ticketapi) | Can an agent-generated app scale? Compare Cosmos DB request units, throttling, and latency before and after agent-guided improvements. Built with .NET, Bicep, and keyless Azure authentication. |
