@@ -1,10 +1,10 @@
 # Hi, I'm Jay Gordon
 
+[jaydestro.github.io](https://jaydestro.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaygordon0042/) | [Azure Cosmos DB Blog](https://devblogs.microsoft.com/cosmosdb/author/jagord/)
+
 **Senior Program Manager at Microsoft, focused on Azure Cosmos DB and developer communities.**
 
 I build demos, write, and give talks to help developers put cloud tools to work. My background is in Linux, system administration, DevOps, and databases. These days, my projects also explore AI-assisted development: getting an app working is a start; understanding how it behaves under load is the next step.
-
-[jaydestro.github.io](https://jaydestro.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaygordon0042/) | [Azure Cosmos DB Blog](https://devblogs.microsoft.com/cosmosdb/author/jagord/)
 
 ## What you'll find here
 
@@ -13,6 +13,10 @@ I build demos, write, and give talks to help developers put cloud tools to work.
 - **Cloud and operations:** containers, deployment, identity, and lessons from running systems.
 
 ## Projects to explore
+
+### Azure Cosmos DB Developer Hub
+
+I built the [Azure Cosmos DB Developer Hub](https://cosmosdb.microsoft.com/), a home for developers to find SDKs, tools, samples, training, and community resources for building apps and AI agents with Azure Cosmos DB.
 
 | Project | What to explore |
 | --- | --- |
