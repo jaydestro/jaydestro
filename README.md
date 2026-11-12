@@ -1,10 +1,10 @@
 # Hi, I'm Jay Gordon
 
+[jaydestro.github.io](https://jaydestro.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaygordon0042/) | [Azure Cosmos DB Blog](https://devblogs.microsoft.com/cosmosdb/author/jagord/)
+
 **Senior Program Manager at Microsoft, focused on Azure Cosmos DB and developer communities.**
 
 I build demos, write, and give talks to help developers put cloud tools to work. My background is in Linux, system administration, DevOps, and databases. These days, my projects also explore AI-assisted development: getting an app working is a start; understanding how it behaves under load is the next step.
-
-[jaydestro.github.io](https://jaydestro.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaygordon0042/) | [Azure Cosmos DB Blog](https://devblogs.microsoft.com/cosmosdb/author/jagord/)
 
 ## What you'll find here
 
@@ -13,6 +13,18 @@ I build demos, write, and give talks to help developers put cloud tools to work.
 - **Cloud and operations:** containers, deployment, identity, and lessons from running systems.
 
 ## Projects to explore
+
+### Azure Cosmos DB Developer Hub
+
+[![Azure Cosmos DB Developer Hub](https://cosmosdb.microsoft.com/img/social/cosmos-dev-hub.png)](https://cosmosdb.microsoft.com/)
+
+I built the [Azure Cosmos DB Developer Hub](https://cosmosdb.microsoft.com/), a home for developers to find SDKs, tools, samples, training, and community resources for building apps and AI agents with Azure Cosmos DB.
+
+### Content Readiness Skill (aeo-skill)
+
+[![aeo-skill repository card](https://opengraph.githubassets.com/b6058cd922ba9cbb9b4fa72644d777bab0c8145a99c1a6d7c7e229ebc4dc459e/jaydestro/aeo-skill)](https://github.com/jaydestro/aeo-skill)
+
+I built [aeo-skill](https://github.com/jaydestro/aeo-skill), an agent skill for reviewing and improving content for humans and agents. It produces evidence-backed reports and actionable recommendations for articles, docs, READMEs, and more, with AEO/GEO guidance for discovery and citation.
 
 | Project | What to explore |
 | --- | --- |
