@@ -16,6 +16,8 @@ I build demos, write, and give talks to help developers put cloud tools to work.
 
 ### Azure Cosmos DB Developer Hub
 
+[![Azure Cosmos DB Developer Hub](https://cosmosdb.microsoft.com/img/social/cosmos-dev-hub.png)](https://cosmosdb.microsoft.com/)
+
 I built the [Azure Cosmos DB Developer Hub](https://cosmosdb.microsoft.com/), a home for developers to find SDKs, tools, samples, training, and community resources for building apps and AI agents with Azure Cosmos DB.
 
 | Project | What to explore |
