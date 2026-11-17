@@ -22,7 +22,7 @@ I built the [Azure Cosmos DB Developer Hub](https://cosmosdb.microsoft.com/), a 
 
 ### Content Readiness Skill (aeo-skill)
 
-[![aeo-skill repository card](https://opengraph.githubassets.com/b6058cd922ba9cbb9b4fa72644d777bab0c8145a99c1a6d7c7e229ebc4dc459e/jaydestro/aeo-skill)](https://github.com/jaydestro/aeo-skill)
+[![aeo-skill repository card](assets/aeo-skill.svg)](https://github.com/jaydestro/aeo-skill)
 
 I built [aeo-skill](https://github.com/jaydestro/aeo-skill), an agent skill for reviewing and improving content for humans and agents. It produces evidence-backed reports and actionable recommendations for articles, docs, READMEs, and more, with AEO/GEO guidance for discovery and citation.
 
